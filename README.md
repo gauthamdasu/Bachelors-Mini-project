@@ -23,3 +23,4 @@ The idea of the project is to explore and implement different datastructures sui
     
    A help command is present, which gives the user while using for some help in how to use the editor.
   The menu provided is shown in the following screen shot.
+  ![menu](https://github.com/gauthamdasu/Bachelors-Mini-project/blob/master/images/menu.png)
